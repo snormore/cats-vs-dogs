@@ -1,0 +1,11 @@
+{
+  "name": "Cats vs Dogs API",
+  "description": "An image classification API example",
+  "repository": "https://github.com/snormore/cats-vs-dogs/tree/master/serving",
+  "keywords": [
+    "keras",
+    "tensorflow",
+    "cats",
+    "dogs"
+  ]
+}
